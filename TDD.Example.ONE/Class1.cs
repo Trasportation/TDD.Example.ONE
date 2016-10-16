@@ -24,6 +24,7 @@ namespace TDD.Example.ONE
         public StringManager Remove(string s)
         {
             StringValue.Replace(s, string.Empty);
+
             return this;
         }
 
