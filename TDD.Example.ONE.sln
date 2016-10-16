@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD.Example.ONE", "TDD.Example.ONE\TDD.Example.ONE.csproj", "{63D1A8A1-6603-4364-9448-378DAADBD4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD.Example.ONE.Test", "TDD.Example.ONE.Test\TDD.Example.ONE.Test.csproj", "{4F43F865-D16F-475C-AAA1-59679DA8583B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D1A8A1-6603-4364-9448-378DAADBD4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D1A8A1-6603-4364-9448-378DAADBD4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D1A8A1-6603-4364-9448-378DAADBD4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D1A8A1-6603-4364-9448-378DAADBD4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F43F865-D16F-475C-AAA1-59679DA8583B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F43F865-D16F-475C-AAA1-59679DA8583B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F43F865-D16F-475C-AAA1-59679DA8583B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F43F865-D16F-475C-AAA1-59679DA8583B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
